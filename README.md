@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Output
-Have a look ![https://rkaybhaker.github.io/My-First-React-Sample-App/](/public/favicon.ico)
+Have a look [OUTPUT](https://rkaybhaker.github.io/My-First-React-Sample-App/)
 
 ## Available Scripts
 
